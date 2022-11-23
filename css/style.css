@@ -93,6 +93,49 @@ h3{
 h4{
   font-size: 1.125em;
 }
+#wrapper{
+  width: 750px;
+  height: 540px;
+  background-color: rgb(32, 178, 170);
+  margin: auto;
+}
+
+#map{
+  width: 700px;
+  height: 540px;
+  background-color: #ccc;
+  margin: auto; 
+}
+
+.slider div{
+  background-color: rgb(32, 178, 170);
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+.bx-viewport {
+  background-color: rgb(32, 178, 170);
+  margin: auto;
+}
+
+.bx-wrapper {
+  width: 1000px;
+  margin: auto;
+}
+
+.slider {
+  margin: auto;
+}
+
+.bx-clone{
+  background-color: rgb(32, 178, 170);
+}
+
+.bx-pager.bx-default-pager a:hover{
+  background: rgb(32, 178, 170);
+}
 li{
   padding-left: 10px;
   font-weight: bold;
