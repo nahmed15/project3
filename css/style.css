@@ -116,7 +116,7 @@ h4{
 }
 
 .bx-viewport {
-  background-color: rgb(32, 178, 170);
+  background-color: #FDFEFE;
   margin: auto;
 }
 
@@ -130,11 +130,11 @@ h4{
 }
 
 .bx-clone{
-  background-color: rgb(32, 178, 170);
+  background-color: #FDFEFE;
 }
 
 .bx-pager.bx-default-pager a:hover{
-  background: rgb(32, 178, 170);
+  background: #FDFEFE;
 }
 li{
   padding-left: 10px;
