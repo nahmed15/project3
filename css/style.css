@@ -96,19 +96,19 @@ h4{
 #wrapper{
   width: 750px;
   height: 540px;
-  background-color: rgb(32, 178, 170);
+  background-color: #FDFEFE;
   margin: auto;
 }
 
 #map{
   width: 700px;
   height: 540px;
-  background-color: #ccc;
+  background-color:#FDFEFE;
   margin: auto; 
 }
 
 .slider div{
-  background-color: rgb(32, 178, 170);
+  background-color: #FDFEFE;
   margin: auto;
   align-items: center;
   justify-content: center;
