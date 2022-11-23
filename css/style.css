@@ -103,12 +103,12 @@ h4{
 #map{
   width: 700px;
   height: 540px;
-  background-color:#FDFEFE;
+  background-color: #DE3163;
   margin: auto; 
 }
 
 .slider div{
-  background-color: #FDFEFE;
+  background-color: #DE3163;
   margin: auto;
   align-items: center;
   justify-content: center;
@@ -116,7 +116,7 @@ h4{
 }
 
 .bx-viewport {
-  background-color: #FDFEFE;
+  background-color: #DE3163;
   margin: auto;
 }
 
@@ -130,11 +130,11 @@ h4{
 }
 
 .bx-clone{
-  background-color: #FDFEFE;
+  background-color: #DE3163;
 }
 
 .bx-pager.bx-default-pager a:hover{
-  background: #FDFEFE;
+  background: #DE3163;
 }
 li{
   padding-left: 10px;
