@@ -29,27 +29,6 @@ body {
   background-color: #FDFEFE;
   font-size: 1em;
 }
-.img{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  background-color: #000000;
-}
-.vid{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  background-color: #000000;
-}
-header{
-  width: 100%;
-}
-.logo_img{
-  position: absolute;
-  top: 0px;
-  left: 0px;
-}
-
 header nav ul{
   text-align: center;
   display: block;
@@ -158,4 +137,29 @@ div div{
 }
 main{
   padding: 0 10px;
+}
+@media screen and (min-width: 700px) {
+  header {
+    width: 100%;
+  }
+
+  .logo_img {
+    position: absolute;
+  }
+
+  @media screen and (max-width: 2000px) {
+    .img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      background-color: #000000;
+    }
+
+    .vid {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      background-color: #000000;
+    }
+  }
 }
